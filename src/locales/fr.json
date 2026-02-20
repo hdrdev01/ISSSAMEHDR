@@ -1,0 +1,92 @@
+{
+  "app": {
+    "title": "Lecteur de Hadith",
+    "subtitle": "Collections de Hadiths Authentiques"
+  },
+  "nav": {
+    "home": "Accueil",
+    "bookmarks": "Signets",
+    "settings": "Paramètres"
+  },
+  "home": {
+    "title": "Collections de Hadith",
+    "subtitle": "Explorez les hadiths authentiques des collections renommées",
+    "searchPlaceholder": "Rechercher des collections...",
+    "filterByLanguage": "Filtrer par langue",
+    "allLanguages": "Toutes les langues",
+    "hadithCount": "{{count, number}} hadiths"
+  },
+  "hadith": {
+    "hadithNumber": "Hadith {{number}}",
+    "inBookReference": "Référence dans le livre",
+    "sahihBukhari": "Sahih Boukhari",
+    "sahihMuslim": "Sahih Mouslim",
+    "grades": "Classification",
+    "reference": "Référence",
+    "showTranslation": "Afficher la traduction"
+  },
+  "grades": {
+    "sahih": "Sahih (Authentique)",
+    "hasan": "Hasan (Bon)",
+    "daif": "Daif (Faible)",
+    "ungraded": "Non classé"
+  },
+  "actions": {
+    "bookmark": "Signet",
+    "bookmarked": "Marqué",
+    "removeBookmark": "Retirer le signet",
+    "copy": "Copier",
+    "share": "Partager",
+    "screenshot": "Capture d'écran",
+    "copied": "Copié dans le presse-papiers !",
+    "shareFailed": "Échec du partage",
+    "screenshotSaved": "Capture d'écran enregistrée !"
+  },
+  "bookmarks": {
+    "title": "Vos Signets",
+    "empty": "Aucun signet",
+    "emptyDescription": "Commencez à explorer les hadiths et marquez vos favoris",
+    "clearAll": "Tout effacer",
+    "confirmClear": "Êtes-vous sûr de vouloir supprimer tous les signets ?"
+  },
+  "filter": {
+    "all": "Tous",
+    "sahih": "Sahih",
+    "hasan": "Hasan",
+    "daif": "Daif",
+    "ungraded": "Non classé"
+  },
+  "pagination": {
+    "previous": "Précédent",
+    "next": "Suivant",
+    "page": "Page {{current}} sur {{total}}",
+    "showing": "Affichage {{from}}-{{to}} sur {{total}} hadiths"
+  },
+  "settings": {
+    "title": "Paramètres",
+    "language": "Langue",
+    "theme": "Thème",
+    "fontSize": "Taille de police",
+    "themeLight": "Clair",
+    "themeDark": "Sombre",
+    "themeSystem": "Système",
+    "fontSizeSmall": "Petite",
+    "fontSizeMedium": "Moyenne",
+    "fontSizeLarge": "Grande"
+  },
+  "offline": {
+    "title": "Vous êtes hors ligne",
+    "message": "Certains contenus peuvent ne pas être disponibles. Les hadiths marqués restent accessibles.",
+    "retry": "Réessayer"
+  },
+  "error": {
+    "notFound": "Hadith non trouvé",
+    "loadFailed": "Échec du chargement du contenu",
+    "retry": "Réessayer"
+  },
+  "languages": {
+    "en": "English",
+    "ar": "العربية",
+    "fr": "Français"
+  }
+}

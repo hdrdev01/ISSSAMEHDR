@@ -1,0 +1,92 @@
+{
+  "app": {
+    "title": "Hadith Reader",
+    "subtitle": "Authentic Hadith Collections"
+  },
+  "nav": {
+    "home": "Home",
+    "bookmarks": "Bookmarks",
+    "settings": "Settings"
+  },
+  "home": {
+    "title": "Hadith Collections",
+    "subtitle": "Explore authentic hadith from renowned collections",
+    "searchPlaceholder": "Search collections...",
+    "filterByLanguage": "Filter by Language",
+    "allLanguages": "All Languages",
+    "hadithCount": "{{count, number}} hadiths"
+  },
+  "hadith": {
+    "hadithNumber": "Hadith {{number}}",
+    "inBookReference": "In-book reference",
+    "sahihBukhari": "Sahih Bukhari",
+    "sahihMuslim": "Sahih Muslim",
+    "grades": "Grading",
+    "reference": "Reference",
+    "showTranslation": "Show Translation"
+  },
+  "grades": {
+    "sahih": "Sahih (Authentic)",
+    "hasan": "Hasan (Good)",
+    "daif": "Daif (Weak)",
+    "ungraded": "Ungraded"
+  },
+  "actions": {
+    "bookmark": "Bookmark",
+    "bookmarked": "Bookmarked",
+    "removeBookmark": "Remove Bookmark",
+    "copy": "Copy",
+    "share": "Share",
+    "screenshot": "Screenshot",
+    "copied": "Copied to clipboard!",
+    "shareFailed": "Sharing failed",
+    "screenshotSaved": "Screenshot saved!"
+  },
+  "bookmarks": {
+    "title": "Your Bookmarks",
+    "empty": "No bookmarks yet",
+    "emptyDescription": "Start exploring hadiths and bookmark your favorites",
+    "clearAll": "Clear All",
+    "confirmClear": "Are you sure you want to remove all bookmarks?"
+  },
+  "filter": {
+    "all": "All",
+    "sahih": "Sahih",
+    "hasan": "Hasan",
+    "daif": "Daif",
+    "ungraded": "Ungraded"
+  },
+  "pagination": {
+    "previous": "Previous",
+    "next": "Next",
+    "page": "Page {{current}} of {{total}}",
+    "showing": "Showing {{from}}-{{to}} of {{total}} hadiths"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "theme": "Theme",
+    "fontSize": "Font Size",
+    "themeLight": "Light",
+    "themeDark": "Dark",
+    "themeSystem": "System",
+    "fontSizeSmall": "Small",
+    "fontSizeMedium": "Medium",
+    "fontSizeLarge": "Large"
+  },
+  "offline": {
+    "title": "You're offline",
+    "message": "Some content may not be available. Bookmarked hadiths are still accessible.",
+    "retry": "Retry"
+  },
+  "error": {
+    "notFound": "Hadith not found",
+    "loadFailed": "Failed to load content",
+    "retry": "Try Again"
+  },
+  "languages": {
+    "en": "English",
+    "ar": "العربية",
+    "fr": "Français"
+  }
+}
