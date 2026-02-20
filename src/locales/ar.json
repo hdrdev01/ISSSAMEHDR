@@ -1,0 +1,92 @@
+{
+  "app": {
+    "title": "قارئ الحديث",
+    "subtitle": "مجموعات الأحاديث الصحيحة"
+  },
+  "nav": {
+    "home": "الرئيسية",
+    "bookmarks": "المحفوظات",
+    "settings": "الإعدادات"
+  },
+  "home": {
+    "title": "مجموعات الحديث",
+    "subtitle": "استعرض الأحاديث الصحيحة من المجموعات الشهيرة",
+    "searchPlaceholder": "البحث في المجموعات...",
+    "filterByLanguage": "تصفية حسب اللغة",
+    "allLanguages": "جميع اللغات",
+    "hadithCount": "{{count, number}} حديث"
+  },
+  "hadith": {
+    "hadithNumber": "الحديث {{number}}",
+    "inBookReference": "المرجع في الكتاب",
+    "sahihBukhari": "صحيح البخاري",
+    "sahihMuslim": "صحيح مسلم",
+    "grades": "الدرجة",
+    "reference": "المرجع",
+    "showTranslation": "عرض الترجمة"
+  },
+  "grades": {
+    "sahih": "صحيح",
+    "hasan": "حسن",
+    "daif": "ضعيف",
+    "ungraded": "غير مدرج"
+  },
+  "actions": {
+    "bookmark": "حفظ",
+    "bookmarked": "محفوظ",
+    "removeBookmark": "إزالة الحفظ",
+    "copy": "نسخ",
+    "share": "مشاركة",
+    "screenshot": "لقطة شاشة",
+    "copied": "تم النسخ!",
+    "shareFailed": "فشل المشاركة",
+    "screenshotSaved": "تم حفظ الصورة!"
+  },
+  "bookmarks": {
+    "title": "المحفوظات",
+    "empty": "لا توجد محفوظات",
+    "emptyDescription": "ابدأ في استعراض الأحاديث واحفظ مفضلاتك",
+    "clearAll": "مسح الكل",
+    "confirmClear": "هل أنت متأكد من إزالة جميع المحفوظات؟"
+  },
+  "filter": {
+    "all": "الكل",
+    "sahih": "صحيح",
+    "hasan": "حسن",
+    "daif": "ضعيف",
+    "ungraded": "غير مدرج"
+  },
+  "pagination": {
+    "previous": "السابق",
+    "next": "التالي",
+    "page": "صفحة {{current}} من {{total}}",
+    "showing": "عرض {{from}}-{{to}} من {{total}} حديث"
+  },
+  "settings": {
+    "title": "الإعدادات",
+    "language": "اللغة",
+    "theme": "المظهر",
+    "fontSize": "حجم الخط",
+    "themeLight": "فاتح",
+    "themeDark": "داكن",
+    "themeSystem": "النظام",
+    "fontSizeSmall": "صغير",
+    "fontSizeMedium": "متوسط",
+    "fontSizeLarge": "كبير"
+  },
+  "offline": {
+    "title": "أنت غير متصل",
+    "message": "بعض المحتوى قد لا يكون متاحاً. الأحاديث المحفوظة لا تزال متاحة.",
+    "retry": "إعادة المحاولة"
+  },
+  "error": {
+    "notFound": "الحديث غير موجود",
+    "loadFailed": "فشل تحميل المحتوى",
+    "retry": "حاول مرة أخرى"
+  },
+  "languages": {
+    "en": "English",
+    "ar": "العربية",
+    "fr": "Français"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Hadith Reader",
+  "short_name": "Hadith",
+  "description": "Read and explore authentic Hadith collections with multi-language support",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f5f0",
+  "theme_color": "#16a34a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "lifestyle", "books"],
+  "lang": "en",
+  "dir": "auto"
+}
